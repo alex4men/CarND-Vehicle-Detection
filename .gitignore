@@ -105,3 +105,6 @@ venv.bak/
 
 # macOS files
 .DS_Store
+
+# datasets
+data/
